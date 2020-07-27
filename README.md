@@ -3,7 +3,7 @@
 
 I'm a Front End Engineer at Dryve.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Vicentini-0065ff?style=flat-square&labelColor=0065ff&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciushvc/)](https://www.linkedin.com/in/vieira-danilo/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Vicentini-0065ff?style=flat-square&labelColor=0065ff&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciushvc/)](https://www.linkedin.com/in/viniciushvc/)
 [![Twitter Badge](https://img.shields.io/badge/-@viniciushvc-0065ff?style=flat-square&labelColor=0065ff&logo=twitter&logoColor=white)](https://twitter.com/viniciushvc)
 
 

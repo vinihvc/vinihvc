@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### Hi there 👋,
+
+I'm a Front End Engineer at Dryve.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Vicentini-0065ff?style=flat-square&labelColor=0065ff&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciushvc/)](https://www.linkedin.com/in/vieira-danilo/)
+[![Twitter Badge](https://img.shields.io/badge/-@viniciushvc-0065ff?style=flat-square&labelColor=0065ff&logo=twitter&logoColor=white)](https://twitter.com/viniciushvc)
+
 
 <!--
 **viniciushvc/viniciushvc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

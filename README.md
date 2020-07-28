@@ -1,10 +1,12 @@
 
 ### Hi there 👋,
 
-I'm a Front End Engineer at Dryve.
+My name is Vinicius Vicentini, and I'm from Brazil (🇧🇷). I work as a Front End Engineer at Dryve.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vinicius%20Vicentini-0065ff?style=flat-square&labelColor=0065ff&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciushvc/)](https://www.linkedin.com/in/viniciushvc/)
-[![Twitter Badge](https://img.shields.io/badge/-@viniciushvc-0065ff?style=flat-square&labelColor=0065ff&logo=twitter&logoColor=white)](https://twitter.com/viniciushvc)
+Would you like to find me?
+
+[![Linkedin Badge](https://camo.githubusercontent.com/7c99e0492e5c108c8f469085b03b1e5a2d1c168b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6f6d6172696f736f75746f)](https://www.linkedin.com/in/viniciushvc/)
+[![Twitter Badge](https://camo.githubusercontent.com/c8430ba9187bd713a1cf7fc2c0687daf4a351969/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547769747465722d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f6f6d6172696f736f75746f)](https://twitter.com/viniciushvc)
 
 
 <!--

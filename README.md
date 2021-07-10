@@ -1,7 +1,7 @@
 
 ### Hi there 👋,
 
-My name is Vinicius Vicentini, and I'm from Brazil (🇧🇷). I work as a Front End Engineer at Dryve.
+My name is Vinicius Vicentini, and I'm from Brazil (🇧🇷). I work as a Software Engineer at [Foton](https://fotontech.io/)
 
 Would you like to find me?
 
